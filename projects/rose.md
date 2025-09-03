@@ -42,4 +42,4 @@ This past school year however I took on more of a leadership role that involved 
 
 A quick video that encapsulates the progress made last school year: [Team RoSE URC 2025 SAR](https://www.youtube.com/watch?v=bVW3kchtqlg)
 
-The code repo for last year is also here: [urc_2025](https://github.com/RoboticSpaceExploration/urc_2025)
+Here is the Github organization: [Team RoSE](https://github.com/RoboticSpaceExploration)

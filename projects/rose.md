@@ -14,7 +14,7 @@ labels:
 summary: "The UH rover robotics team in which I serve as the principle lead for the Guidance, Navigation, and Control subsystem."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/rose_logo.png">
 
 Team Robotic Space Exploration, Team RoSE, is the robotics team in the University of Hawaii at Manoa which specializes in creating a mock Mars rover for a international competition called URC, University Rover Challenge. 
 

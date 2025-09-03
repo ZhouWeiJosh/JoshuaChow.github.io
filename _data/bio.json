@@ -6,10 +6,10 @@
     "email": "chowjz@hawaii.edu",
     "website": "https://zhouweijosh.github.io",
     "summary": "I am pursing my B.S. in Computer Engineering under the College of Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring 2027.", 
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/ZhouWeiJosh" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/joshua-chow-564901293/" },
+      { "network": "github", "username": "ZhouWeiJosh", "url": "http://github.com/ZhouWeiJosh" },
+      { "network": "linkedin", "username": "Joshua Chow", "url": "https://www.linkedin.com/in/joshua-chow-564901293/" },
     ]
   },
   "interests": [
@@ -24,15 +24,15 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Ubuntu", "Git/GitHub", "Windows 11" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
       ]

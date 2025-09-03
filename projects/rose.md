@@ -14,7 +14,7 @@ labels:
 summary: "The UH rover robotics team in which I serve as the principle lead for the Guidance, Navigation, and Control subsystem."
 ---
 
-<img class="img-fluid" src="../img/rover_desert.png">
+<img class="img-fluid" src="../img/rover_desert.jpg">
 
 Team Robotic Space Exploration, Team RoSE, is the robotics team in the University of Hawaii at Manoa which specializes in creating a mock Mars rover for a international competition called URC, University Rover Challenge. 
 
@@ -40,6 +40,6 @@ Initially, I joined as a way to continue the passion I had towards the field of 
 
 This past school year however I took on more of a leadership role that involved management of the entire software team. Including running weekly meetings, tracking the progess of the different sub-disciplines, and of course developing the software, mostly the differential drive for me specifically. Though this only describes a third of the team which also includes the mechanical and electrical team. 
 
-A quick video that encapsulates the progress made last school year: [Team RoSE | URC 2025 SAR](https://www.youtube.com/watch?v=bVW3kchtqlg)
+A quick video that encapsulates the progress made last school year: [Team RoSE URC 2025 SAR](https://www.youtube.com/watch?v=bVW3kchtqlg)
 
 The code repo for last year is also here: [urc_2025](https://github.com/RoboticSpaceExploration/urc_2025)

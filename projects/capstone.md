@@ -15,6 +15,8 @@ summary: "Culminating capstone project that involves ground up development of a 
 
 <img class="img-fluid" src="../img/rover_desert.jpg">
 
+The capstone project serves as a year long project that aims to utilizes ones knowledge obtained over the course of high school to a singular project. It consisted of three different branches, engineering, health, and business. 
+
 Team Robotic Space Exploration, Team RoSE, is the robotics team in the University of Hawaii at Manoa which specializes in creating a mock Mars rover for a international competition called URC, University Rover Challenge. 
 
 The competition is broken down into four main missions: 

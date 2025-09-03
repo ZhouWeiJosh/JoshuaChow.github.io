@@ -40,23 +40,23 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "College of Engineering",
+      "position": "Undergraduate Research Assistant",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2024-11-10",
+      "endDate": "2025-05-06",
+      "summary": "Provided mentorship to high school students towards application of electronics and aerospace",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Worked closely with high school students on developing electronics for their project for UH Manoa",
+        "Research basic rocket trajectory and orbits"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "World Wide Technologies",
+      "position": "IT Sales / Sales Operations Intern",
+      "website": "",
+      "startDate": "2024-05-28",
+      "endDate": "2024-08-01",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
@@ -89,20 +89,6 @@
         "Member, IEEE Student Branch, 2014-Present",
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [

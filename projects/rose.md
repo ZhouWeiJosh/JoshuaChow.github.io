@@ -20,21 +20,26 @@ Team Robotic Space Exploration, Team RoSE, is the robotics team in the Universit
 
 The competition is broken down into four main missions: 
 
-  Delivery
+- **Science**
 
-  A teleoperated mission that involves the rover finding, picking up, and delivering objects to astronauts on the field        while also traversing through terrain of increasing difficulty
+  A mission that involves collecting a soil sample from various sites to preform basic science evaluation of the sample onboard. In order to discover if there were any microbial life that was acquired from the sample sites.
 
+- **Delivery**
 
-Initially, I joined as a way to continue the passion I had 
+  A teleoperated mission that involves the rover finding, picking up, and delivering objects to astronauts on the field while also traversing through terrain of increasing difficulty
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+- **Equipment Servicing**
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+  A teleoperated mission that requires the rover to interact with a mock lander to preform certain task, including undo a latch, opening a drawer, and typing in a launch key. Culmating in the precise movement of both the robotic arm and differential drive.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+- **Autonomous Navigation**
 
-Here is some example code to illustrate Simple Schema use:
+  The rover autonomously must travel to two GNSS location, three post with AR tags, and two objects which requires a careful balance of sensors to approximate its location and movement.
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Initially, I joined as a way to continue the passion I had towards the field of robotics. And through the student lead component of the project, I learned about the difficulties that came with differing knowledge gaps and team coherency. 
+
+This past school year however I took on more of a leadership role that involved management of the entire software team. Including running weekly meetings, tracking the progess of the different sub-disciplines, and of course developing the software, mostly the differential drive for me specifically. Though this only describes a third of the team which also includes the mechanical and electrical team. 
+
+A quick video that describes the progress of the rover last school year is link [here](https://www.youtube.com/watch?v=bVW3kchtqlg)
+
+The code repo for last year is also here: [urc_2025](https://github.com/RoboticSpaceExploration/urc_2025)

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/rose_logo.png
+image: img/logo_rose.png
 title: "Team RoSE"
 date: 2025
 published: true

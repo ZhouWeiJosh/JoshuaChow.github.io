@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/swerveProjectHome.jpg
 title: "High School Capstone"
-date: 2025
+date: 2022
 published: true
 labels:
   - Robotics

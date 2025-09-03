@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/logo_rose.png
+image: img/swerveProjectHome.jpeg
 title: "High School Capstone"
 date: 2025
 published: true
@@ -13,8 +13,7 @@ labels:
 summary: "Culminating capstone project that involves ground up development of a holonomic drive system."
 ---
 
-<!-- <img class="img-fluid" src="../img/rover_desert.jpg"> -->
-<img
+<img class="img-fluid" src="../img/swerveWheelMod">
 
 The capstone project serves as a year long project that aims to utilizes ones knowledge obtained over the course of high school to a singular project. It consisted of three different branches, engineering, health, and business. 
 

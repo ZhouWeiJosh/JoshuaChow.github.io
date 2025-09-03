@@ -11,7 +11,7 @@ labels:
   - C++
   - Python
   - GitHub
-summary: "The UH rover robotics team in which I serve as the principle lead for the Guidance, Navigation, and Control team."
+summary: "The UH rover robotics team in which I serve as the principle lead for the Guidance, Navigation, and Control subsystem."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">

@@ -72,35 +72,23 @@
       "summary": "",
       "highlights": [
         "Running fiber optic/ethernet patches through the Information Technologies Data Center",
-        "Manage and resolve Cherwell tickets from different departments within the Infomration Technology Center and on campus"
+        "Manage and resolve Cherwell tickets from different departments within the Information Technology Center and on campus"
       ]
     }
     
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Team RoSE (Robotic Space Exploration)",
+      "website": "https://github.com/RoboticSpaceExploration",
+      "position": "Principle GNC Software Lead",
+      "startDate": "2023-08-29",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Lead developer/manager of the Guidance, Navigation, and Control subsystem within the team",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Working on developing autonomous systems for a Mars Rover",
+        "Principle member for leading all subdiscplines within the subsystem. Including Computer Vision, Robotic Arm, Autonomy, Payload, and Ground Station",
+        "Transitioned differential drive from ROS to ROS2"
       ]
     }
   ],

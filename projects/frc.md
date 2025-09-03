@@ -1,20 +1,19 @@
 ---
 layout: project
 type: project
-image: img/logo_rose.png
-title: "Team RoSE"
-date: 2025
+image: img/robotCover.JPG
+title: "First Robotics Competition"
+date: 2023
 published: true
 labels:
   - Robotics
-  - ROS2
+  - FRC
   - C++
-  - Python
   - GitHub
 summary: "The UH rover robotics team in which I serve as the principle lead for the Guidance, Navigation, and Control subsystem."
 ---
 
-<img class="img-fluid" src="../img/rover_desert.jpg">
+<img class="img-fluid" src="../img/robotProject.JPG">
 
 Team Robotic Space Exploration, Team RoSE, is the robotics team in the University of Hawaii at Manoa which specializes in creating a mock Mars rover for a international competition called URC, University Rover Challenge. 
 

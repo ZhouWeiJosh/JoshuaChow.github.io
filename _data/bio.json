@@ -1,30 +1,26 @@
 {
   "basics": {
     "name": "Joshua Chow",
-    "label": "Student",
+    "label": "Computer Engineering Student",
     "picture": "https://github.com/zhouweijosh.png",
     "email": "chowjz@hawaii.edu",
     "website": "https://zhouweijosh.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
+    "summary": "I am pursing my B.S. in Computer Engineering under the College of Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring 2027.", 
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/ZhouWeiJosh" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/joshua-chow-564901293/" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Autonomy" },
+    { "name": "Badminton" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "ROS2" ]
     },
     {
       "name": "Toolsets/OS",

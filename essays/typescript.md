@@ -30,9 +30,9 @@ Which brings me to the point about destructing assignments, that I currently fin
 
 Moving onto some positives regarding Typescript, I really do appreciate the built-in functions with array management. In the C programming language, there are no built-in functions, thus we have to deal with pointers which is quite complex. So being able have function calls for dynamic arrays is very appreciated. Another thing that I liked about this superset of Javascript is the function charAt(), which yet again does not exist in C which uses char arrays. However, this C implementation is to allow for a more lower level managment of the memory being used. 
 
-## Software Engineering from a Hardware Perspective
+## Software Engineering from a Team Perspective
 
-I personally work with a group of undergraduates to develop software for a mock Mars rover and we work closely with hardware. This requires us to have 
+I personally work with a group of undergraduates to develop software for a mock Mars rover and we work closely on a organization repository. However, the programming languages that we primarily use is C++ and Python alongside the framework ROS2. Working on the software for this rover as a team has really taught me a lot about software engineering. I realized its hard to have an organized team to work on designing specific aspects of the arm, drive, and autonomy stack. The way we work is very amateur and naive with testing and development done simultaneously. Though I do understand as the team is not as big as other software engineering workspaces. This year however I want to implement a more streamlined approach to how the code with flow in and out. Not to similar to the creative ways to create functions in Typescript, the goal is to have a cohesive style of coding and development reviews.  
 What is interesting to note is its lack of resemblance to its similarly named Java, which hold more similarities to C++ if anything.
 
 

@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Typescript, A Bit Too Much"
+title: "Impression of Javascript++"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-03
 published: true
@@ -14,6 +14,8 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
+## Typescript, A Bit Too Much
+
 Coming from a C/C++ background, Typescript, superset of Javascript, serves as a similar yet frustating language. From the scoping problems when using var to the confusing syntax, those aspects play a role in the growing pains of getting through the basics. On the otherhand, I appreciate the built-in functions regarding array managment, such as push(), pop(), shift(), and unshift(), which are not natively built into programs like C. However, with any sort of new language, there will be times where frustration comes from the lack of knowledge rather than the language itself. So it is important the points given here, with a grain of salt. 
 
 One of my main frustations with Typescript is the way they implement static types. I am very used to having types be declared before the variable name is even invoked. 
@@ -24,7 +26,12 @@ Whereas the Typescript you have to invoke it with both let/const and the variabl
 
 `let num: number = 20;`
 
-Which brings me to the point about destructing assignments, that I currently find really difficult to grasp onto since I am very hard-coded into writing it in a more standard way. As a beginniner coming from a quite different language it 
+Which brings me to the point about destructing assignments, that I currently find really difficult to grasp onto since I am very hard-coded into writing it in a more standard way. As a beginniner coming from a quite different language it just requires constant usage and practice with it. However, I do find that it has a harder to read intiutively and makes peer programming a bit more difficulty.
+
+Moving onto some positives regarding Typescript, I really do appreciate the built-in functions with array management. In the C programming language, there are no built-in functions, thus we have to deal with pointers which is quite complex. So being able have function calls for dynamic arrays is very appreciated. Another thing that I liked about this superset of Javascript is the function charAt(), which yet again does not exist in C which uses char arrays. However, this C implementation is to allow for a more lower level managment of the memory being used. 
+
+## Software Engineering from a Hardware Perspective
+
 
 
 What is interesting to note is its lack of resemblance to its similarly named Java, which hold more similarities to C++ if anything.

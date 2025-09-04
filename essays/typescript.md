@@ -16,110 +16,27 @@ labels:
 
 ## Typescript, A Bit Too Much
 
-Coming from a C/C++ background, Typescript, superset of Javascript, serves as a similar yet frustating language. From the scoping problems when using var to the confusing syntax, those aspects play a role in the growing pains of getting through the basics. On the otherhand, I appreciate the built-in functions regarding array managment, such as push(), pop(), shift(), and unshift(), which are not natively built into programs like C. However, with any sort of new language, there will be times where frustration comes from the lack of knowledge rather than the language itself. So it is important the points given here, with a grain of salt. 
+Coming from a C/C++ background, Typescript, superset of Javascript, serves as a similar yet frustating language. From the scoping problems when using var to the confusing syntax, those aspects play a role in the growing pains of getting through the basics. On the otherhand, I appreciate the built-in functions regarding array managment, such as push(), pop(), shift(), and unshift(), which are not natively built into programs like C. However, with any sort of new language, there will be times where frustration comes from the lack of knowledge rather than the language itself. So it is important to take these points given with a grain of salt. 
 
-One of my main frustations with Typescript is the way they implement static types. I am very used to having types be declared before the variable name is even invoked. 
+One of my main frustations with Typescript is the way they implement static types. Syntactically I am very used to having types be declared before the variable name is even invoked. 
 
 `int num = 20; // C`
 
-Whereas the Typescript you have to invoke it with both let/const and the variable name followed by the Typescript type.
+Whereas in Typescript you have to invoke it with both let/const and the variable name followed by the special type.
 
-`let num: number = 20;`
+`let num: number = 20; // Typescript`
 
-Which brings me to the point about destructing assignments, that I currently find really difficult to grasp onto since I am very hard-coded into writing it in a more standard way. As a beginniner coming from a quite different language it just requires constant usage and practice with it. However, I do find that it has a harder to read intiutively and makes peer programming a bit more difficulty.
+Which brings me to the point about destructing assignments, that I currently find really difficult to grasp onto since it has been hard-coded into me to write it in a more standard way. As a beginniner coming from quite a different language, I think it will take a lot of time and practice to get use to. Despite that, I do find that it is harder to read intiutively and makes peer programming a bit more difficulty.
 
-Moving onto some positives regarding Typescript, I really do appreciate the built-in functions with array management. In the C programming language, there are no built-in functions, thus we have to deal with pointers which is quite complex. So being able have function calls for dynamic arrays is very appreciated. Another thing that I liked about this superset of Javascript is the function charAt(), which yet again does not exist in C which uses char arrays. However, this C implementation is to allow for a more lower level managment of the memory being used. 
+Moving onto some positives regarding Typescript, I really do appreciate the built-in functions with array management. In the C programming language, there are no built-in functions thus we have to deal with pointers which are quite complex. So being able to have function calls for structing dynamic arrays is very much appreciated. Another thing that I quite liked about this superset of Javascript is the function charAt(), which yet again does not exist in C which primarily uses char arrays. However, it is important to note that the lack of these features could be due to how low level it is as a programming language.
 
 ## Software Engineering from a Team Perspective
 
-I personally work with a group of undergraduates to develop software for a mock Mars rover and we work closely on a organization repository. However, the programming languages that we primarily use is C++ and Python alongside the framework ROS2. Working on the software for this rover as a team has really taught me a lot about software engineering. I realized its hard to have an organized team to work on designing specific aspects of the arm, drive, and autonomy stack. The way we work is very amateur and naive with testing and development done simultaneously. Though I do understand as the team is not as big as other software engineering workspaces. This year however I want to implement a more streamlined approach to how the code with flow in and out. Not to similar to the creative ways to create functions in Typescript, the goal is to have a cohesive style of coding and development reviews.  
-What is interesting to note is its lack of resemblance to its similarly named Java, which hold more similarities to C++ if anything.
+Under the vertically integrated project (VIP), Team RoSE, which each year develops a mock Mars rover for a international competition serves to benefit from a bit of software engineering. Though unlike the contents of this class that primarily focuses on Typescript and other web development tools, the team works closer to the hardware requiring a framework called ROS2 and working with languages such as C++ and Python. Having a bigger team inquires more task that need to be delegated and more risk on time. Therefore, to better increase the time management and productivity pipeline, I think it is wildy important to move away from a more amateur approach to product development and testing. It just makes me think about the freedom that languages like Typescript provide and how that sometimes can be cumbersome to understand. Having a clear and concise way of doing things brings out a combined sense of knowledge gained. For example, if you work in peers and utilizing a coding convention it puts people on the same page instantly. Therefore, to me a language like Typescript needs to me more direct and not closed ended about the approach of certain variables or functions.
 
+## Going from Typing to Scripting
 
+Typescript is an interesting language and though I may have some grips with the idiosyncrasies within it, I think I will understand its purpose more and more as my software engineering course progresses. When I first went through the basics, I realized like real world languages, there are similarties and different approaches. To me it makes it specialized to the purpose and the user. This is just another tool that you can take out of your toolbox, and though sometimes it will not be the right one. However, when that sometimes comes, you will have more than enough knowledge to apply it.
 
-It might be the strict convention that is in C and the error checking, but I feel like a more strict langauge helps with efficiency and uniformity. 
-
-## Is there such thing as a stupid question?
-
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
-
-## What’s a smart question?
-
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
-
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
-
-```
-Q: python date of the previous month
-
-I am trying to get the date of the previous month with python. Here is what i've tried:
-
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+## Fun Fact
+Javascript has no resemblance to Java even though they share a common name.

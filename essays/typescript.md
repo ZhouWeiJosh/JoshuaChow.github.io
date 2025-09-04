@@ -14,6 +14,25 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
+Coming from a C/C++ background, Typescript, superset of Javascript, serves as a similar yet frustating language. From the scoping problems when using var to the confusing syntax, those aspects play a role in the growing pains of getting through the basics. On the otherhand, I appreciate the built-in functions regarding array managment, such as push(), pop(), shift(), and unshift(), which are not natively built into programs like C. However, with any sort of new language, there will be times where frustration comes from the lack of knowledge rather than the language itself. So it is important the points given here, with a grain of salt. 
+
+One of my main frustations with Typescript is the way they implement static types. I am very used to having types be declared before the variable name is even invoked. 
+
+`int num = 20; // C`
+
+Whereas the Typescript you have to invoke it with both let/const and the variable name followed by the Typescript type.
+
+`let num: number = 20;`
+
+Which brings me to the point about destructing assignments, that I currently find really difficult to grasp onto since I am very hard-coded into writing it in a more standard way. As a beginniner coming from a quite different language it 
+
+
+What is interesting to note is its lack of resemblance to its similarly named Java, which hold more similarities to C++ if anything.
+
+
+
+It might be the strict convention that is in C and the error checking, but I feel like a more strict langauge helps with efficiency and uniformity. 
+
 ## Is there such thing as a stupid question?
 
 I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.

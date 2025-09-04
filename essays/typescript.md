@@ -32,8 +32,7 @@ Moving onto some positives regarding Typescript, I really do appreciate the buil
 
 ## Software Engineering from a Hardware Perspective
 
-
-
+I personally work with a group of undergraduates to develop software for a mock Mars rover and we work closely with hardware. This requires us to have 
 What is interesting to note is its lack of resemblance to its similarly named Java, which hold more similarities to C++ if anything.
 
 

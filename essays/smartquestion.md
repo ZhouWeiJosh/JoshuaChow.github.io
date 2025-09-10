@@ -14,6 +14,8 @@ labels:
 
 ## Questions from a Smart Perspective
 
-Who, what, when, where, and why? This common phrase has probably been heard while describing a text 
+Who, what, when, where, and why? 
+
+which similarily what software developers are doing when asking for help. 
 
 ## Smart Question, a good one

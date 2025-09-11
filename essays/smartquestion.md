@@ -4,13 +4,13 @@ type: essay
 title: "There are no such thing as a bad question..."
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-10
-published: false
+published: true
 labels:
   - Software Engineering
   - Smart Questions
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/memescript.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/memequestion.png">
 
 ## Questions from a Smart Perspective
 
@@ -20,18 +20,21 @@ Who, what, when, where, and why? The five W's serve an important role in underst
 
 Stack Overflow is a Q&A forum that connects users like you and I to collaborate on a variety of programming problems/issues. Before the advent of chatbots such as ChatGPT and Copilot, this served as a great way to connect with very knowledgable people and get your questions answered. Also, it serves as a great place to find people who are good at asking smart questions. One of them was this user who was getting a "Bad state: Stream has already been listened to.", which relates to their implementation of dart streams for event handling. They prefaced the whole question by giving us some background on the work that he has done for this specific issues, with them talking about going through multiple platforms and not finding a clear answer. To me this shows some initiative and leads me to be more inclined to the problem that this user is discussing. Furthermore, this user was able to give us some of his code snippets to drive straight into. 
 
-<img width="500px" class="rounded float-start pe-4" src="../img/memescript.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/goodquestion.png">
 
 These code snippets are not screenshots and are formatted in a way that provides the least amount of work to access. Thus, with a smart question comes a satisfactory answer indicated with the green checkmark. The responder was able to call on his knowledge about the asBroadcastStream() and discovery that the issues coming from the creation of a unknown broadcast stream. This hopefully allowed the original poster the chance to learn about this function a bit more and reimplement the code in a way to fit their needs. The results of this smart question allowed for this poster to have a small collaboration with a different user and build upon his knowledge. Creating a situation in where both parties were able to either help or gain insight into something new.
 
 
 ## Smart Question, The Last Terrible Sequel
 
-This 
+With a good original movie comes a forced unwelcomed medicore sequel. Which has nothing particular to deal with this persons issue, but everything to do with the way its formatted. This particular user was having problems with getting notifications on code Copilot, but it seems that he has given up continue his search by referencing that he thinks something needs to be turned on. And when he turned it on, it seemed that he got frustrated with the audio and just went straight to Stack Overflow to find a quick and easy solution. The user made no effort to describe the specifics of his problem and resorted to using Stack Overflow as a gloried Google search. This makes it feel like he had no intention of learning, but to skip the process and find the answer. And with that comes no response and negative perception of the question as there are two downvotes on it. 
 
-This person is trying to get notifications when the code copilot agent finished its task. However, this person seemed like they did some light researching regarding the problem, and give up entirely to and relied solely on asking somebody. This resulted in no one responding to this question, as it is poorly written and sounds a bit entitled to an answer regarding their specific task. A response that I could imagine if given the time of day would be to ask the person to do a bit more research into the matter and design a more well defined idea of a reason and pictures of what they tried to do. 
-
+<img width="500px" class="rounded float-start pe-4" src="../img/badquestion.png">
 
 ## The End of a Question, The Beginning of More
 
-Questions, the birth of curiosity and knowledge. And being able to utilize it in your toolset, you will thank yourself later. Smart questions are the way you can communicate not only in software engineering, but other aspects of life. The way one crafts a question is the way one lets others into the way your code is written and understand the perspective that you come from. This helps yourself and other understand where are coming from and the mistakes that you have been making. Therefore it is important to have well-crafted questions to develop satisfactory answers and the development hole you might be in. So being alert about the problem and doing your best to solve it first, then ask has been very appreciated because it shows that you have tried and need just a bit more assistance. 
+Questions are one of the most important ways of communication in the world. It serves as a way to let your curiosity run wild and knowledge expand. Having it in your toolset, especially for a software engineer will help you improve tons. If you are able to craft a smart question it will set you up for well-craft responses that lets other understand your work and help you. And this does not only apply to software engineering, but many aspects of our lives. It helps us be more articulate and see from different perspectives. So when you are confused and truly need assistance, try asking a smart question.
+
+## Fun Fact
+
+The name Stack Overflow comes from a programming term where a program attempts to use more memory than is allocated on the stack.

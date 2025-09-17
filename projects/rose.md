@@ -30,7 +30,7 @@ The competition is broken down into four main missions:
 
 - **Equipment Servicing**
 
-  A teleoperated mission that requires the rover to interact with a mock lander to preform certain task, including undo a latch, opening a drawer, and typing in a launch key. Culmating in the precise movement of both the robotic arm and differential drive.
+  A teleoperated mission that requires the rover to interact with a mock lander to preform a certain task, including undoing a latch, opening a drawer, and typing in a launch key. Culmating in the precise movement of both the robotic arm and differential drive.
 
 - **Autonomous Navigation**
 
@@ -38,8 +38,8 @@ The competition is broken down into four main missions:
 
 Initially, I joined as a way to continue the passion I had towards the field of robotics. And through the student lead component of the project, I learned about the difficulties that came with differing knowledge gaps and team coherency. 
 
-This past school year however I took on more of a leadership role that involved management of the entire software team. Including running weekly meetings, tracking the progess of the different sub-disciplines, and of course developing the software, mostly the differential drive for me specifically. Though this only describes a third of the team which also includes the mechanical and electrical team. 
+This past school year however I took on more of a leadership role that involved management of the entire software team. Including running weekly meetings, tracking the progess of the different sub-disciplines, and of course developing the software, mostly the differential drive for me. Though the team is vast including a subdisciplinaries in mechanical and electronical engineering.
 
-A quick video that encapsulates the progress made last school year: [Team RoSE URC 2025 SAR](https://www.youtube.com/watch?v=bVW3kchtqlg)
+Here's a quick video that encapsulates the progress made last school year: [Team RoSE URC 2025 SAR](https://www.youtube.com/watch?v=bVW3kchtqlg)
 
 Here is the Github organization: [Team RoSE](https://github.com/RoboticSpaceExploration)

@@ -36,9 +36,9 @@ The competition is broken down into four main missions:
 
   The rover autonomously must travel to two GNSS location, three post with AR tags, and two objects which requires a careful balance of sensors to approximate its location and movement.
 
-Initially, I joined as a way to continue the passion I had towards the field of robotics. And through the student lead component of the project, I learned about the difficulties that came with differing knowledge gaps and team coherency. 
+Initially, I joined as a way to continue the passion I had towards the field of robotics. And through this student lead project, I was able to learn more about C++ and the framework ROS/ROS2. The ROS, robot operating system, framework is a framework used for building robotic systems. It essentially works by having publishers and subscribers to communicate data between the different sensors within the robot. Specifically we are using the sequel to ROS, ROS2 to implement our own robotic system for the rover. During my first year, I primilarily worked under my lead on developing software for getting GPS coordinates for feeding into the Extended Kalman Filter.
 
-This past school year however I took on more of a leadership role that involved management of the entire software team. Including running weekly meetings, tracking the progess of the different sub-disciplines, and of course developing the software, mostly the differential drive for me. Though the team is vast including a subdisciplinaries in mechanical and electronical engineering.
+This past school year, I took on more of a leadership role that involved management of the entire software team. Including running weekly meetings, tracking the progess of the different sub-disciplines, and of course developing the software, mostly the differential drive for me. Though that only describes only this sub-discipline as we also have the mechanical and electrical team.
 
 Here's a quick video that encapsulates the progress made last school year: [Team RoSE URC 2025 SAR](https://www.youtube.com/watch?v=bVW3kchtqlg)
 

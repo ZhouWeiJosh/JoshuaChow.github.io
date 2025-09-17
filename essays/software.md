@@ -16,7 +16,7 @@ labels:
 
 ## Software Engineering the Intro
 
-Software engineering is the process in which software/code is developed, tested, and maintained. Think of the websites you visit daily, that in itself is part of the software engineering cycle albeit mostly in the maintenance phase. However, this process is all but foreign to me with key phrases thrown around here and there. Nothing until now, where I am taking a course on software engineering and hopefully building upon that knowledge. 
+Software engineering is the process in which software/code is developed, tested, and maintained. Think of the websites you visit daily, that in itself is part of the software engineering cycle albeit probably in the maintanance phase. However, this process is all but foreign to me with some key phrases being brought up here and there. Such as the agile model and waterfall that describes certain processes of development. But now this semester, I am taking a a course on software engineering and will finally understand what that many of this will mean. 
 
 ## The Hook
 

@@ -12,7 +12,7 @@ labels:
   - WODs
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/software.png">
+<img width="550px" class="rounded float-start pe-4" src="../img/software.png">
 
 ## Software Engineering the Intro
 
